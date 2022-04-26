@@ -40,18 +40,21 @@
     
 }
 .back-button{
-    
+    size: 300px;
+    height: 50px;
     font-size: 30px;
-    opacity: 0.5;
-    padding-top: 50px;
-    background: none;
-    color: rgba(245, 9, 9, 0.966);
+    background: local;
+   opacity: 0.5;
+   border-radius: 5px;
+    padding-left: 10px;
+    color: white; 
 }
+
 .cards{
     
     display: flex;
-    /* padding-top: 50px;
-    margin-top: 10px; */
+    padding-top: 50px;
+    margin-top: 10px;
     border:1.5px solid yellowgreen;
     height: 40vh;
     width: 20%;
@@ -59,6 +62,11 @@
     border-radius: 10px;
     box-shadow: 5PX 5PX 10PX gray;
     margin: auto;
+}
+.fafa{
+    padding-top: 10rem;
+    padding-left: 13rem; 
+    
 }
 
 .div1{
